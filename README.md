@@ -1,6 +1,10 @@
 # hamburger_delivery_app
 
-A new Flutter project.
+Simple example of a Delivery Flutter application with Hero animation.
+
+![Screenshot](hamburger_app_home.jpeg)
+![Screenshot](hamburger_app_details.jpeg)
+
 
 ## Getting Started
 
